@@ -78,14 +78,15 @@ input, button, .button{
     height: 21.2rem;
     background: var(--blue);
     clip-path: circle();
+    opacity: .1;
 
     position: fixed;
 }
 
 .ball.top{
-    top: 0;
+    top: -46rem;
     width: 63.3rem;
-    right: 0;
+    right: -35rem;
     height: 63.3rem;
 }
 
