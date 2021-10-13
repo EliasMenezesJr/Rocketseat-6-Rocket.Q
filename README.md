@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 
 <header align="center"> 
 <h1>Rocket.Q </h1>
@@ -20,7 +20,6 @@ Discover track project from the fourth edition of #NLW #NLW6
 <section>
 <h2>Home</h2>
 <img src="https://cdn.discordapp.com/attachments/897906176476459018/897906523471233045/home.png">
-<img src="">
 </section>
 
 <section>
