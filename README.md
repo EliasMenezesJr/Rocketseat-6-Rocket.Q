@@ -46,7 +46,7 @@ Discover track project from the fourth edition of #NLW #NLW6
 #
 <footer align="left">
 <h3> Criador: Elias Menezes Júnior<h3>
-<h3>Suporte: <a href="app.rocketseat.com.br">Rocketseat</h3> 
+<h3>Suporte: <a href="app.rocketseat.com.br">Rocketseat<a/> </h3> 
 </footer>
 
 #
