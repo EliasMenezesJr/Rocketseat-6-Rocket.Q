@@ -11,8 +11,7 @@ Discover track project from the fourth edition of #NLW #NLW6
 <p>O Rokect.Q é um projeto de salas de perguntas, você cria uma sala de pergunta com sua senha e código único da sala, com esse código você ppode mandar para outras pessoas acesarem a mesma sala que foi criada.</p>
 <header>
   
-
-<br><br>
+<br>
 
 <main>
 <h2>
@@ -50,7 +49,4 @@ Discover track project from the fourth edition of #NLW #NLW6
 </footer>
 
 #
-<<<<<<< HEAD
 </div>
-=======
->>>>>>> 14fd3a611f7e5184aee5f92644a4ef6b4318abff
