@@ -6,10 +6,11 @@
 Discover track project from the fourth edition of #NLW #NLW6
 </h2>
 <img src="https://media.discordapp.net/attachments/897906176476459018/897906892850995230/thumbnail_nlw_6_discover.png?width=998&height=701">
-
+  
 <h2>Descrição</h2>
 <p>O Rokect.Q é um projeto de salas de perguntas, você cria uma sala de pergunta com sua senha e código único da sala, com esse código você ppode mandar para outras pessoas acesarem a mesma sala que foi criada.</p>
 <header>
+  
 
 <br><br>
 
@@ -40,11 +41,16 @@ Discover track project from the fourth edition of #NLW #NLW6
 </section>
 <main>
 
+</div>
+  
 #
 <footer align="left">
-<h3> Criador: Elias Menezes Júnior<h3>
-<h3>Suporte: <a href="app.rocketseat.com.br">Rocketseat</h3> 
+<h3> Criador: Elias Menezes Júnior <h3>
+<h3>Suporte: Rocketseat </h3> 
 </footer>
 
 #
+<<<<<<< HEAD
 </div>
+=======
+>>>>>>> 14fd3a611f7e5184aee5f92644a4ef6b4318abff
