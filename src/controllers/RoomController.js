@@ -2,8 +2,12 @@ const Database = require("../db/config.js")
 
 module.exports = {
     async create(req, res){
-        const db = await Database()
         const pass = req.body.password
+        if(!pass){
+            return res.redirect('/create-pass')
+        }
+
+        const db = await Database()
         let roomId 
         let isRoom = true
 

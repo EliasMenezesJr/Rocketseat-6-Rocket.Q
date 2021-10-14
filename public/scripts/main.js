@@ -40,3 +40,12 @@ function handleClick(event, check = true){
     //abrir modal
     modal.open()
 }
+
+const buttonCopy = document.getElementById('room-id').addEventListener('click', copy)
+
+function copy(){
+    const text = document.querySelector("#text-id")
+    const roomId = document.querySelector("#room-id").dataset.id
+    navigator.clipboard.writeText(roomId);
+    text.innerText = `Copiado`
+}
